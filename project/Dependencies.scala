@@ -80,6 +80,7 @@ object Dependencies {
       Csw.`csw-time-scheduler`,
       Libs.`case-app`,
       Libs.`scala-async`,
+      Libs.`akka-http-metrics-prometheus`,
       Libs.scalatest                  % Test,
       Csw.`csw-testkit`               % Test,
       Libs.`mockito-scala`            % Test,
